@@ -1,0 +1,21 @@
+a {
+  text-decoration: none;
+}
+.cat-border {
+  width: max-content;
+  border-bottom: 10px solid #ffbb24;
+  border-radius: 5px;
+  margin: 0 auto;
+}
+.banner,
+.carousel {
+  background-repeat: no-repeat;
+}
+.banner {
+  background-image: url(./images/bg-2.png);
+  background-position: bottom left;
+}
+.carousel {
+  background-image: url(./images/bg-1.png);
+  background-position: center;
+}
